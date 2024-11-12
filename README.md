@@ -22,7 +22,7 @@ I'm a skilled MERN stack and React Native developer with a passion for building 
 - **GitHub**: [GitHub Profile Link](https://github.com/athavyadav96k)
 - **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/atharv-yadav-a3306a25b/)
 - **Email**: atharvyadav96k@gmail.com
-- **LeetCode**:[Leetcode Profile Link](https://www.linkedin.com/in/atharv-yadav-a3306a25b/)
+- **LeetCode**: [Leetcode Profile Link](https://leetcode.com/u/atharvyadav96k/)
 
 ---
 
