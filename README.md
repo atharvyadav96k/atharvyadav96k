@@ -1,3 +1,4 @@
+# Hi there, I'm Atharv Yadav 👋
 # 💫 About Me:
 💻 About Me<br>I'm a skilled MERN stack and React Native developer with a passion for building web and mobile applications. With a strong foundation in full-stack JavaScript, I enjoy crafting responsive, user-friendly, and efficient solutions from backend to frontend.<br><br>🌱 Constantly learning new frameworks and improving my skills.<br>🚀 Working on exciting projects that push the limits of technology.<br>👨‍💻 Open to collaborations, freelance projects, and interesting opportunities.
 
