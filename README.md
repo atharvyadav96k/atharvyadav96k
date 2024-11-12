@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Atharv Yadav 👋
 
-<!--
-**atharvyadav96k/atharvyadav96k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
 
-Here are some ideas to get you started:
+I'm a skilled MERN stack and React Native developer with a passion for building web and mobile applications. With a strong foundation in full-stack JavaScript, I enjoy crafting responsive, user-friendly, and efficient solutions from backend to frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Constantly learning new frameworks and improving my skills.
+- 🚀 Working on exciting projects that push the limits of technology.
+- 👨‍💻 Open to collaborations, freelance projects, and interesting opportunities.
+
+### 🛠 Tech Stack
+- **Frontend**: React, React Native, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express, MongoDB
+- **Mobile**: React Native (with Expo)
+- **Database**: MongoDB, Firebase
+- **Tools**: Git, VS Code, Postman
+
+### 🔍 Current Projects
+- **[Kapad](#)**: A mobile app built with React Native to make cloth market supplier life easy
+
+### 📫 Let's Connect
+- **GitHub**: [GitHub Profile Link](https://github.com/athavyadav96k)
+- **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/atharv-yadav-a3306a25b/)
+- **Email**: atharvyadav96k@gmail.com
+- **LeetCode**:[Leetcode Profile Link](https://www.linkedin.com/in/atharv-yadav-a3306a25b/)
+
+---
+
+Thanks for visiting! 😊
