@@ -19,7 +19,7 @@ I'm a skilled MERN stack and React Native developer with a passion for building 
 - **[Kapad](https://github.com/atharvyadav96k/kapad-app)**: A mobile app built with React Native to make cloth market supplier life easy
 
 ### 📫 Let's Connect
-- **GitHub**: [GitHub Profile Link](https://github.com/athavyadav96k)
+- **GitHub**: [GitHub Profile Link](https://github.com/atharvyadav96k)
 - **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/atharv-yadav-a3306a25b/)
 - **Email**: atharvyadav96k@gmail.com
 - **LeetCode**: [Leetcode Profile Link](https://leetcode.com/u/atharvyadav96k/)
