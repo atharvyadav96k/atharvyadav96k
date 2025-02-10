@@ -4,8 +4,6 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/atharv-yadav-a3306a25b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="130" height="40"></a><br>
-<a href="https://leetcode.com/u/atharvyadav96k/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="130" height="40"></a><br>
 **Email**: atharvyadav96k@gmail.com
 
 # 💻 Tech Stack:
