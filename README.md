@@ -19,5 +19,3 @@
 ---
 
 Thanks for visiting! 😊
-
-Chagnes
